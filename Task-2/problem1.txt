@@ -1,0 +1,20 @@
+step-1 : Function Main
+step-2 : Declare Integer m, n, o
+step-3 : Output "Enter the number"
+step-4 : Input m
+step-5 : Assign o = 0
+step-6 : If m<0
+        step-6(1) : Assign m = -m
+        step-6(2) : End
+step-7 : For n = 0 to m step 3
+        step-7(1) : If n==m
+        step-7(2) : Assign n = m+1
+        step-7(3) : Assign o = 1
+        step-7(4) : End
+        step-7(5) : End
+step-8 : If o==1
+        step-8(1) : Output "True"
+step-9 : False:
+        step-9(1) : Output "False"
+        step-9(2) : End
+step-10 : End
