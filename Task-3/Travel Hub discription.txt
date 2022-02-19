@@ -1,2 +1,6 @@
-JAMMI MOKSHA TEJ
-I did Task-3 (Design A Landing Page On Any Genre Using Either Figma Or Adobe XD"),Through Figma on the topic "online booking" with website name as "Travel Hub.
+I had completed Task-3 (Design A Landing Page On Any Genre Using Either Figma Or Adobe XD) through Figma.
+I took the topic of "online booking" with the website named "Travel Hub".
+In Figma, I took the desktop-sized layout,then I attached the background.
+And created my logo with “canva logo maker”, 
+I had used rectangular frameworks for highlighting the options and I gave color to that .
+Then added text and aligned properly for describing my landing page on Travel Hub.
